@@ -10,7 +10,7 @@ class Mod
 		const database = container.resolve("DatabaseServer").getTables();
 		const jsonUtil = container.resolve("JsonUtil");
 		const core = container.resolve("JustNUCore");
-		const db = `user/mods/zAdditionalGear-TanModule/db/`;
+		const modDb = `user/mods/zAdditionalGear-TanModule/db/`;
 		const config = require("../config/config.json");
 		const itemConfig = require("../config/itemConfig.json");
 		const itemData = require("../db/items/itemData.json");
@@ -22,7 +22,7 @@ class Mod
 			for (const itemId in itemConfig[categoryId]) {
 				if (itemConfig[categoryId][itemId]) {
 					if (config.EnableLogging) { logger.info(`Add. Gear - Tan: Loading ${itemId}`) }
-					core.addItemRetexture(itemId, db, config, itemConfig, itemData);
+					core.addItemRetexture(modDb, itemId, itemData[itemId].BaseItemID, itemData[itemId].BundlePath, config.EnableTradeOffers, config.AddToBots);
 				}
 			}
 		}
