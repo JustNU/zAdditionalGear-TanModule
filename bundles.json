@@ -1,96 +1,95 @@
 {
     "manifest": [
 		{
-            "key": "AddGearTan/ArmoredVests/6b13_tan.bundle",
+            "key": "AddGearTan/ArmoredVests/6b13_textures.bundle",
             "dependencyKeys": [
-                "cubemaps",
-				"assets/content/items/equipment/armor_6b13/item_equipment_armor_6b13_gloss_nrm",
-                "shaders",
-				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/vest/ar_6b13_mesh"
-            ]
+				"shaders",
+				"cubemaps"
+			]
         },
 		{
-            "key": "AddGearTan/ArmoredVests/gen4_tan_textures.bundle",
+            "key": "AddGearTan/ArmoredVests/6b13.bundle",
+            "dependencyKeys": [
+				"AddGearTan/ArmoredVests/6b13_textures.bundle",
+				"assets/content/characters/character/vest/ar_6b13_mesh",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearTan/ArmoredVests/gen4_textures.bundle",
             "dependencyKeys": []
         },
 		{
-            "key": "AddGearTan/ArmoredVests/gen4_tan_assault.bundle",
+            "key": "AddGearTan/ArmoredVests/gen4_assault.bundle",
             "dependencyKeys": [
-                "cubemaps",
-				"AddGearTan/ArmoredVests/gen4_tan_textures.bundle",
-                "shaders",
 				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
-            ]
+				"shaders",
+				"AddGearTan/ArmoredVests/gen4_textures.bundle",
+				"cubemaps"
+			]
         },
 		{
-            "key": "AddGearTan/ArmoredVests/gen4_tan_full.bundle",
+            "key": "AddGearTan/ArmoredVests/gen4_full.bundle",
             "dependencyKeys": [
-                "cubemaps",
-				"AddGearTan/ArmoredVests/gen4_tan_textures.bundle",
-                "shaders",
 				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
-            ]
+				"shaders",
+				"AddGearTan/ArmoredVests/gen4_textures.bundle",
+				"cubemaps"
+			]
         },
 		{
-            "key": "AddGearTan/ArmoredVests/gen4_tan_mobility.bundle",
+            "key": "AddGearTan/ArmoredVests/gen4_mobility.bundle",
             "dependencyKeys": [
-                "cubemaps",
-				"AddGearTan/ArmoredVests/gen4_tan_textures.bundle",
-                "shaders",
 				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
-            ]
+				"shaders",
+				"AddGearTan/ArmoredVests/gen4_textures.bundle",
+				"cubemaps"
+			]
         },
 		{
-            "key": "AddGearTan/ArmoredVests/trooper_tan.bundle",
+            "key": "AddGearTan/ArmoredVests/trooper.bundle",
             "dependencyKeys": [
-                "cubemaps",
-                "shaders",
 				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
-            ]
+				"shaders",
+				"cubemaps"
+			]
         },
 		{
-            "key": "AddGearTan/ArmoredVests/trooper_tan_clean.bundle",
+            "key": "AddGearTan/ArmoredVests/trooper_clean.bundle",
             "dependencyKeys": [
-                "cubemaps",
-                "shaders",
 				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
-            ]
+				"shaders",
+				"cubemaps"
+			]
         },
 		{
-            "key": "AddGearTan/ArmoredVests/untarvest_tan.bundle",
+            "key": "AddGearTan/ArmoredVests/untarvest.bundle",
             "dependencyKeys": [
-                "cubemaps",
-                "shaders",
-				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
-            ]
+				"shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
         },
 		{
-            "key": "AddGearTan/ArmoredVests/hgrid_tan.bundle",
+            "key": "AddGearTan/ArmoredVests/hgrid.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders",
-				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
+				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
 		{
-            "key": "AddGearTan/ArmoredVests/paca_tan.bundle",
+            "key": "AddGearTan/ArmoredVests/paca.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders",
-				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
+				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/tacteccarrier_tan.bundle",
+            "key": "AddGearTan/Rigs/tacteccarrier.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -99,7 +98,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/anaalpha_tan.bundle",
+            "key": "AddGearTan/Rigs/anaalpha.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -108,7 +107,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/anam1_tan.bundle",
+            "key": "AddGearTan/Rigs/anam1.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -117,7 +116,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/arscpc_tan.bundle",
+            "key": "AddGearTan/Rigs/arscpc.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -126,7 +125,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/anam2_tan.bundle",
+            "key": "AddGearTan/Rigs/anam2.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -135,7 +134,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/cryeavs_tan.bundle",
+            "key": "AddGearTan/Rigs/cryeavs.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -144,7 +143,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/d3crx_tan.bundle",
+            "key": "AddGearTan/Rigs/d3crx.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -153,7 +152,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/lbt1961a_tan.bundle",
+            "key": "AddGearTan/Rigs/lbt1961a.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -162,7 +161,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/tv109_tan.bundle",
+            "key": "AddGearTan/Rigs/tv109.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -171,7 +170,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/blackrock_tan.bundle",
+            "key": "AddGearTan/Rigs/blackrock.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -180,7 +179,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/mppv_tan.bundle",
+            "key": "AddGearTan/Rigs/mppv.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -188,7 +187,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Rigs/thunderbolt_tan.bundle",
+            "key": "AddGearTan/Rigs/thunderbolt.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -196,7 +195,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Headgear/head_bandana_tan.bundle",
+            "key": "AddGearTan/Headgear/head_bandana.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -204,7 +203,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Headgear/mich2001_tan.bundle",
+            "key": "AddGearTan/Headgear/mich2001.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -212,7 +211,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Headgear/mich2002_tan.bundle",
+            "key": "AddGearTan/Headgear/mich2002.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -220,13 +219,13 @@
             ]
         },
 		{
-            "key": "AddGearTan/Headgear/doorkicker_tan.bundle",
+            "key": "AddGearTan/Headgear/doorkicker.bundle",
             "dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
-            "key": "AddGearTan/Headgear/beret_tan.bundle",
+            "key": "AddGearTan/Headgear/beret.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -234,7 +233,7 @@
             ]
         },
         {
-            "key": "AddGearTan/Headgear/6b47_tan.bundle",
+            "key": "AddGearTan/Headgear/6b47.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -242,46 +241,46 @@
             ]
         },
         {
-            "key": "AddGearTan/Headgear/achhc_tan_textures.bundle",
+            "key": "AddGearTan/Headgear/achhc_textures.bundle",
             "dependencyKeys": []
         },
         {
-            "key": "AddGearTan/Headgear/achhc_tan.bundle",
+            "key": "AddGearTan/Headgear/achhc.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-				"AddGearTan/Headgear/achhc_tan_textures.bundle",
+				"AddGearTan/Headgear/achhc_textures.bundle",
 				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
-            "key": "AddGearTan/Headgear/beanie_tan_textures.bundle",
+            "key": "AddGearTan/Headgear/beanie_textures.bundle",
             "dependencyKeys": []
         },
         {
-            "key": "AddGearTan/Headgear/beanie_tan.bundle",
+            "key": "AddGearTan/Headgear/beanie.bundle",
             "dependencyKeys": [
                 "shaders",
-				"AddGearTan/Headgear/beanie_tan_textures.bundle",
+				"AddGearTan/Headgear/beanie_textures.bundle",
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"assets/content/characters/character/skeleton.bundle"
             ]
         },
         {
-            "key": "AddGearTan/Headgear/bear_cap_tan_textures.bundle",
+            "key": "AddGearTan/Headgear/bear_cap_textures.bundle",
             "dependencyKeys": []
         },
         {
-            "key": "AddGearTan/Headgear/bear_cap_tan.bundle",
+            "key": "AddGearTan/Headgear/bear_cap.bundle",
             "dependencyKeys": [
                 "shaders",
-				"AddGearTan/Headgear/bear_cap_tan_textures.bundle",
+				"AddGearTan/Headgear/bear_cap_textures.bundle",
                 "cubemaps",
 				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
-            "key": "AddGearTan/Headgear/caiman_tan.bundle",
+            "key": "AddGearTan/Headgear/caiman.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -289,28 +288,20 @@
             ]
         },
         {
-            "key": "AddGearTan/Headgear/cap_tan_textures.bundle",
+            "key": "AddGearTan/Headgear/cap_textures.bundle",
             "dependencyKeys": []
         },
         {
-            "key": "AddGearTan/Headgear/cap_tan.bundle",
+            "key": "AddGearTan/Headgear/cap.bundle",
             "dependencyKeys": [
                 "shaders",
-				"AddGearTan/Headgear/cap_tan_textures.bundle",
+				"AddGearTan/Headgear/cap_textures.bundle",
                 "cubemaps",
 				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
-            "key": "AddGearTan/Headgear/tc800_tan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-				"assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "AddGearTan/Headgear/uxpro_tan.bundle",
+            "key": "AddGearTan/Headgear/tc800.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -318,7 +309,15 @@
             ]
         },
         {
-            "key": "AddGearTan/Facecover/CFbalaclava_tan.bundle",
+            "key": "AddGearTan/Headgear/uxpro.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearTan/Facecover/CFbalaclava.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -327,21 +326,21 @@
             ]
         },
         {
-            "key": "AddGearTan/Facecover/halfmask_tan_textures.bundle",
+            "key": "AddGearTan/Facecover/halfmask_textures.bundle",
             "dependencyKeys": []
         },
         {
-            "key": "AddGearTan/Facecover/halfmask_tan.bundle",
+            "key": "AddGearTan/Facecover/halfmask.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-				"AddGearTan/Facecover/halfmask_tan_textures.bundle",
+				"AddGearTan/Facecover/halfmask_textures.bundle",
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"assets/content/characters/character/skeleton.bundle"
             ]
         },
         {
-            "key": "AddGearTan/Facecover/momex_tan.bundle",
+            "key": "AddGearTan/Facecover/momex.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -350,7 +349,7 @@
             ]
         },
         {
-            "key": "AddGearTan/Facecover/shemaghV1_tan.bundle",
+            "key": "AddGearTan/Facecover/shemaghV1.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -359,7 +358,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Backpacks/berkut_tan.bundle",
+            "key": "AddGearTan/Backpacks/berkut.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders",
@@ -368,7 +367,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Backpacks/daypack_tan.bundle",
+            "key": "AddGearTan/Backpacks/daypack.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders",
@@ -376,7 +375,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Backpacks/beta2_tan.bundle",
+            "key": "AddGearTan/Backpacks/beta2.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders",
@@ -385,7 +384,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Backpacks/mbss_tan.bundle",
+            "key": "AddGearTan/Backpacks/mbss.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders",
@@ -394,7 +393,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Backpacks/f4terminator_tan.bundle",
+            "key": "AddGearTan/Backpacks/f4terminator.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders",
@@ -402,7 +401,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Backpacks/blackjack50_tan.bundle",
+            "key": "AddGearTan/Backpacks/blackjack50.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders",
@@ -411,7 +410,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/Backpacks/medpack_tan.bundle",
+            "key": "AddGearTan/Backpacks/medpack.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders",
@@ -419,7 +418,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/MiscGear/tk_heavy_trooper_tan.bundle",
+            "key": "AddGearTan/MiscGear/tk_heavy_trooper.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -427,7 +426,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/MiscGear/caiman_applique_tan.bundle",
+            "key": "AddGearTan/MiscGear/caiman_applique.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -435,7 +434,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/MiscGear/caiman_mandible_tan.bundle",
+            "key": "AddGearTan/MiscGear/caiman_mandible.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -443,7 +442,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/MiscGear/caiman_visor_tan.bundle",
+            "key": "AddGearTan/MiscGear/caiman_visor.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -451,7 +450,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/MiscGear/ops_core_fast_visor_tan.bundle",
+            "key": "AddGearTan/MiscGear/ops_core_fast_visor.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -463,7 +462,7 @@
             "dependencyKeys": []
         },
 		{
-            "key": "AddGearTan/MiscGear/ops_core_mandible_tan.bundle",
+            "key": "AddGearTan/MiscGear/ops_core_mandible.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -472,7 +471,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/MiscGear/ops_core_side_armor_tan.bundle",
+            "key": "AddGearTan/MiscGear/ops_core_side_armor.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -481,7 +480,7 @@
             ]
         },
 		{
-            "key": "AddGearTan/MiscGear/ops_core_visor_tan.bundle",
+            "key": "AddGearTan/MiscGear/ops_core_visor.bundle",
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
@@ -545,8 +544,7 @@
             "dependencyKeys": [
                 "shaders",
 				"cubemaps",
-				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton"
+				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
 		{

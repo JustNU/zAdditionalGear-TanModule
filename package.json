@@ -2,8 +2,9 @@
     "name": "AdditionalGear - Tan Module",
     "author": "JustNU",
     "version": "1.0.4",
-    "license": "NCSA",
-    "main": "package.js",
+    "license": "MIT",
+    "main": "src/mod.js",
+	"akiVersion": "3.3.*",
 	"dependencies": {
         "A_JustNUCore": "1.0.0"
     }
