@@ -49,40 +49,40 @@
 		"ShortName": "6B2 Tan",
 		"Description": "An old army body armor from Afghanistan war times, mainly designed to protect against pistol bullets and explosion fragments. It fulfilled its mission, but was soon replaced by bulletproof vests with differentiated protection."
     },
-	"AddGearTan_f4terminator": {
-        "Name": "Eberlestock F4 Terminator load bearing backpack (tan)",
-		"ShortName": "F4",
-		"Description": "Extremely versatile full-format load bearing backpack for military use."
+	"AddGearTan_F4Terminator": {
+        "Name": "Eberlestock F4 Terminator load bearing backpack (Tan)",
+		"ShortName": "F4 Terminator Tan",
+		"Description": "An extremely versatile full-format load bearing backpack for military use. Manufactured by Eberlestock."
     },
-	"AddGearTan_blackjack50": {
-       "Name": "Mystery Ranch Blackjack 50 backpack (tan)",
-		"ShortName": "Blackjack 50",
-		"Description": "Backpack for long, far and successful raids by Mystery Ranch."
+	"AddGearTan_Blackjack50": {
+       "Name": "Mystery Ranch Blackjack 50 backpack (Tan)",
+		"ShortName": "Blackjack 50 Tan",
+		"Description": "A backpack made for long and successful raids, manufactured by Mystery Ranch."
     },
-	"AddGearTan_beta2": {
-        "Name": "Ana tactical Beta 2 battle backpack (tan)",
-		"ShortName": "Beta2",
-		"Description": "An lightweight and capacious backpack from Ana Tactical. Specially designed for use in dynamic conditions and on rough terrain."
+	"AddGearTan_Beta2": {
+        "Name": "ANA Tactical Beta 2 Battle backpack (Tan)",
+		"ShortName": "Beta 2 Tan",
+		"Description": "A lightweight and capacious backpack from ANA Tactical. Specially designed for use in dynamic conditions and on rough terrain."
     },
-	"AddGearTan_medpack": {
-        "Name": "LBT-2670 Slim Field Med Pack (tan)",
-		"ShortName": "SFMP",
-		"Description": "Low-profile medical backpack, which allows you to very effectively place various specialized tools and medicines."
+	"AddGearTan_Medpack": {
+        "Name": "LBT-2670 Slim Field Med Pack (Tan)",
+		"ShortName": "SFMP Tan",
+		"Description": "A low-profile medical backpack, designed to carry large amounts of specialized medical equipment and supplies. Manufactured by London Bridge Trading."
     },
-	"AddGearTan_mbss": {
-        "Name": "Flyye MBSS Backpack (tan)",
-		"ShortName": "MBSS",
-		"Description": "Extra durable backpack made from 1000D Cordura with a separate pocket for water bladder and MOLLE attachment system on the sides."
+	"AddGearTan_MBSS": {
+        "Name": "Flyye MBSS Backpack (Tan)",
+		"ShortName": "MBSS Tan",
+		"Description": "An extra durable backpack made from 1000D Cordura with a separate pocket for a water bladder and a MOLLE attachment system on the sides."
     },
-	"AddGearTan_daypack": {
-       "Name": "LBT-8005A Day Pack backpack (tan)",
-		"ShortName": "Day Pack",
-		"Description": "A simple and reliable 14-liter backpack in tan color."
+	"AddGearTan_Daypack": {
+       "Name": "LBT-8005A Day Pack backpack (Tan)",
+		"ShortName": "Day Pack Tan",
+		"Description": "A simple and reliable 14-liter backpack in Tan color. Manufactured by London Bridge Trading."
     },
-	"AddGearTan_berkut": {
-        "Name": "Wartech Berkut VV-102 backpack (tan)",
-		"ShortName": "Berkut",
-		"Description": "Tactical backpack with front loading. Suitable for use by military or security forces or for military tactical games."
+	"AddGearTan_Berkut": {
+        "Name": "WARTECH Berkut BB-102 backpack (Tan)",
+		"ShortName": "Berkut Tan",
+		"Description": "A tactical backpack with front loading capabilities. Suitable for use by military and security forces, or for military tactical games. Manufactured in WARTECH."
     },
 	"AddGearTan_ops_core_mandible": {
         "Name": "Ops-Core Fast GUNSIGHT Mandible (tan)",

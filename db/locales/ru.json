@@ -44,37 +44,37 @@
 		"ShortName": "PACA",
 		"Description": "Лёгкая броня, защищающая только жизненно важные части тела, но весьма надёжная, с бронепластинами 2 класса защиты."
     },
-	"AddGearTan_f4terminator": {
+	"AddGearTan_F4Terminator": {
         "Name": "Нагрузочный рюкзак Eberlestock F4 Terminator (tan)",
 		"ShortName": "F4",
 		"Description": "Полноформатный, сверхпрочный, нагрузочный рюкзак для военного использования."
     },
-	"AddGearTan_blackjack50": {
+	"AddGearTan_Blackjack50": {
         "Name": "Рюкзак Mystery Ranch Blackjack 50 (tan)",
 		"ShortName": "Blackjack 50",
 		"Description": "Рюкзак для дальних и успешных рейдов фирмы Mystery Ranch."
     },
-	"AddGearTan_beta2": {
+	"AddGearTan_Beta2": {
         "Name": "Боевой ранец Ana Tactical Бета 2 (песочный)",
 		"ShortName": "Бета2",
 		"Description": "Удобный и вместительный ранец от компании Ana Tactical. Специально сконструирован для использования в динамичных условиях и на пересеченной местности."
     },
-	"AddGearTan_medpack": {
+	"AddGearTan_Medpack": {
         "Name": "Медицинский рюкзак LBT-2670 Slim Field Med Pack (tan)",
 		"ShortName": "SFMP",
 		"Description": "Низкопрофильный медицинский рюкзак, позволяеющий очень эффективно разместить различные специализированные инструменты и медикаменты."
 	},
-	"AddGearTan_mbss": {
+	"AddGearTan_MBSS": {
         "Name": "Рюкзак Flyye MBSS (tan)",
 		"ShortName": "MBSS",
 		"Description": "Рюкзак из высокопрочной кордуры 1000D, с отделением под гидратор и креплениями MOLLE на лямках и по бокам."
     },
-	"AddGearTan_daypack": {
+	"AddGearTan_Daypack": {
         "Name": "Рюкзак LBT-8005A Day Pack (tan)",
 		"ShortName": "Day Pack",
 		"Description": "Простой и надежный 14-ти литровый рюкзак в цвете Tan."
     },
-	"AddGearTan_berkut": {
+	"AddGearTan_Berkut": {
         "Name": "Рюкзак Wartech Беркут ВВ-102 (песочный)",
 		"ShortName": "Беркут",
 		"Description": "Тактический рюкзак с фронтальной загрузкой. Подходит для использования как сотрудникам силовых структур, так и для военно-тактических игр."

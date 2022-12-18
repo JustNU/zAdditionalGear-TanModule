@@ -10,5 +10,14 @@
 		"AddGearTan_Trooper_Clean": true,
 		"AddGearTan_PACA": true,
 		"AddGearTan_6B2": true
+	},
+	"Backpacks": {
+		"AddGearTan_F4Terminator": true,
+		"AddGearTan_Blackjack50": true,
+		"AddGearTan_Beta2": true,
+		"AddGearTan_Medpack": true,
+		"AddGearTan_MBSS": true,
+		"AddGearTan_Daypack": true,
+		"AddGearTan_Berkut": true
 	}
 }

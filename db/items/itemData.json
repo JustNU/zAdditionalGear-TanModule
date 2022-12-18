@@ -38,5 +38,33 @@
 	"AddGearTan_6B2": {
 		"BaseItemID": "5df8a2ca86f7740bfe6df777",
 		"BundlePath": "AddGearTan/ArmoredVests/6B2.bundle"
+	},
+	"AddGearTan_F4Terminator": {
+		"BaseItemID": "5f5e46b96bdad616ad46d613",
+		"BundlePath": "AddGearTan/Backpacks/f4terminator.bundle"
+	},
+	"AddGearTan_Blackjack50": {
+		"BaseItemID": "5c0e774286f77468413cc5b2",
+		"BundlePath": "AddGearTan/Backpacks/blackjack50.bundle"
+	},
+	"AddGearTan_Beta2": {
+		"BaseItemID": "5b44c6ae86f7742d1627baea",
+		"BundlePath": "AddGearTan/Backpacks/beta2.bundle"
+	},
+	"AddGearTan_Medpack": {
+		"BaseItemID": "5e4abc6786f77406812bd572",
+		"BundlePath": "AddGearTan/Backpacks/medpack.bundle"
+	},
+	"AddGearTan_MBSS": {
+		"BaseItemID": "544a5cde4bdc2d39388b456b",
+		"BundlePath": "AddGearTan/Backpacks/mbss.bundle"
+	},
+	"AddGearTan_Daypack": {
+		"BaseItemID": "5e9dcf5986f7746c417435b3",
+		"BundlePath": "AddGearTan/Backpacks/daypack.bundle"
+	},
+	"AddGearTan_Berkut": {
+		"BaseItemID": "5ca20d5986f774331e7c9602",
+		"BundlePath": "AddGearTan/Backpacks/berkut.bundle"
 	}
 }

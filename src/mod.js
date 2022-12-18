@@ -114,16 +114,6 @@ class Mod
 		}
 		
 		/*
-		// Backpacks //
-		core.AddItemRetexture(db, 	"5f5e46b96bdad616ad46d613", "AddGearTan_f4terminator", 			"AddGearTan/Backpacks/f4terminator.bundle");
-		core.AddItemRetexture(db, 	"5c0e774286f77468413cc5b2", "AddGearTan_blackjack50", 			"AddGearTan/Backpacks/blackjack50.bundle");
-		core.AddItemRetexture(db, 	"5b44c6ae86f7742d1627baea", "AddGearTan_beta2", 				"AddGearTan/Backpacks/beta2.bundle");
-		core.AddItemRetexture(db, 	"5e4abc6786f77406812bd572", "AddGearTan_medpack", 				"AddGearTan/Backpacks/medpack.bundle");
-		core.AddItemRetexture(db, 	"544a5cde4bdc2d39388b456b", "AddGearTan_mbss", 					"AddGearTan/Backpacks/mbss.bundle");
-		core.AddItemRetexture(db, 	"5e9dcf5986f7746c417435b3", "AddGearTan_daypack", 				"AddGearTan/Backpacks/daypack.bundle");
-		core.AddItemRetexture(db, 	"5ca20d5986f774331e7c9602", "AddGearTan_berkut", 				"AddGearTan/Backpacks/berkut.bundle");
-		core.AddItemRetexture(db, 	"5ca20d5986f774331e7c9602", "AddGearTan_HAZARD_PILLBOX", 			"AddGearTan/Backpacks/PILLBOX.bundle");
-		
 		// Misc Gear //
 		core.AddItemRetexture(db, 	"5a16ba61fcdbcb098008728a", "AddGearTan_ops_core_mandible",	 	"AddGearTan/MiscGear/ops_core_mandible.bundle");
 		core.AddItemRetexture(db, 	"5ea058e01dbce517f324b3e2", "AddGearTan_tk_heavy_trooper", 		"AddGearTan/MiscGear/tk_heavy_trooper.bundle");
