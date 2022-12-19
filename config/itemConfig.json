@@ -19,5 +19,11 @@
 		"AddGearTan_MBSS": true,
 		"AddGearTan_Daypack": true,
 		"AddGearTan_Berkut": true
+	},
+	"Face Covers": {
+		"AddGearTan_CFBalaclava": true,
+		"AddGearTan_HalfMask": true,
+		"AddGearTan_MomexBalaclava": true,
+		"AddGearTan_ShemaghVer1": true
 	}
 }

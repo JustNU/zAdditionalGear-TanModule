@@ -124,25 +124,25 @@
 		"ShortName": "FVisor",
 		"Description": "FAST Visor designed to protect the eyes and part of the serviceman's face from shell fragments, mines, grenades, drops of chemically aggressive liquids and oils, coarsely dispersed aerosols, thermal factors, atmospheric influences and mechanical damages in all types of combat operations."
     },
-	"AddGearTan_CFbalaclava": {
-        "Name": "Cold Fear Infrared balaclava (tan)",
-		"ShortName": "CF",
-		"Description": "Quality balaclava with special technological material, which ensures maximum heat in the most severe frosts. But we do not need it for this. We need it to operate properly."
+	"AddGearTan_CFBalaclava": {
+        "Name": "Cold Fear Infrared balaclava (Tan)",
+		"ShortName": "CF Tan",
+		"Description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
     },
-	"AddGearTan_halfmask": {
-        "Name": "Lower half-mask (tan)",
-		"ShortName": "Mask",
+	"AddGearTan_HalfMask": {
+        "Name": "Lower half-mask (Tan)",
+		"ShortName": "Half-mask Tan",
 		"Description": "A piece of cloth, typically a bandana, covering the face from nose and below, is the most typical attribute of a street gang member."
     },
-	"AddGearTan_momex": {
-        "Name": "Momex balaclava (tan)",
-		"ShortName": "Momex",
-		"Description": "Tactical balaclava with a single hole for eyes."
+	"AddGearTan_MomexBalaclava": {
+        "Name": "Momex balaclava (Tan)",
+		"ShortName": "Momex Tan",
+		"Description": "A tactical balaclava with a single hole for eyes."
     },
-	"AddGearTan_shemaghV1": {
-        "Name": "Shemagh (tan)",
-		"ShortName": "Shemagh",
-		"Description": "Favorite headpiece of PMCs around the globe."
+	"AddGearTan_ShemaghVer1": {
+        "Name": "Shemagh (Tan, ver. 1)",
+		"ShortName": "Shemagh 1 Tan",
+		"Description": "A favorite headpiece of PMCs around the globe."
     },
 	"AddGearTan_6b47": {
         "Name": "6B47 Ratnik-BSh Helmet (tan)",

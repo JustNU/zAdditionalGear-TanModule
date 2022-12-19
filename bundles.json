@@ -321,13 +321,15 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
+				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
             "key": "AddGearTan/Facecover/halfmask_textures.bundle",
-            "dependencyKeys": []
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps"
+			]
         },
         {
             "key": "AddGearTan/Facecover/halfmask.bundle",
@@ -335,8 +337,7 @@
                 "shaders",
                 "cubemaps",
 				"AddGearTan/Facecover/halfmask_textures.bundle",
-				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
+				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
@@ -344,8 +345,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
+				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
         {
@@ -353,8 +353,7 @@
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
-				"assets/commonassets/physics/physicsmaterials.bundle",
-				"assets/content/characters/character/skeleton.bundle"
+				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
 		{
