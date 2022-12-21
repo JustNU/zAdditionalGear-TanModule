@@ -4,7 +4,7 @@
     "version": "1.0.4",
     "license": "MIT",
     "main": "src/mod.js",
-	"akiVersion": "3.3.*",
+	"akiVersion": "3.4.*",
 	"isBundleMod": true,
 	"dependencies": {
         "A_JustNUCore": "1.0.0"

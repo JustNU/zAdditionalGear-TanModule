@@ -89,12 +89,12 @@
 		"ShortName": "Heavy Trooper",
 		"Description": "Tac-Kek Heavy Trooper, дополнительный модуль баллистическая маска на шлем по типу Ops Core, по мотивам известной киновселенной. Таков путь."
     },
-	"AddGearTan_caiman_applique": {
+	"AddGearTan_Galvion_Caiman_applique": {
         "Name": "Дополнительное бронирование Applique для шлема Caiman (tan)",
 		"ShortName": "Applique",
 		"Description": "Дополнительная закрепляемая панель для повышения или усиления баллистической и противоосколочной защиты гибридного шлема Caiman."
     },
-	"AddGearTan_caiman_visor": {
+	"AddGearTan_Galvion_Caiman_visor": {
         "Name": "Визор Caiman Fixed Arm Visor (tan)",
 		"ShortName": "FAV",
 		"Description": "Тактический визор на фиксированном креплении на шрауд."
@@ -109,7 +109,7 @@
 		"ShortName": "SArmor",
 		"Description": "Дополнительное бронирование для шлема Ops-Core FAST, которое защищает область ушей от осколков и малокалиберных рикошетов"
     },
-	"AddGearTan_caiman_mandible": {
+	"AddGearTan_Galvion_Caiman_mandible": {
         "Name": "Мандибула Caiman Ballistic Guard (tan)",
 		"ShortName": "Мандибула",
 		"Description": "Специальная дополнительная баллистическая защита для шлема Galvion Caiman, устанавливаемая на боковые арочные крепления."
@@ -139,12 +139,12 @@
 		"ShortName": "Арафатка",
 		"Description": "Любимый головной убор ЧВК по всему миру. Он же шемаг, он же куфия."
     },
-	"AddGearTan_6b47": {
+	"AddGearTan_6B47": {
         "Name": "Общевойсковой защитный шлем 6Б47 \"Ратник-БШ\" (песочный)",
 		"ShortName": "6Б47",
 		"Description": "Единый войсковой броневой шлем ВС РФ."
     },
-	"AddGearTan_caiman": {
+	"AddGearTan_Galvion_Caiman": {
         "Name": "Шлем Galvion Caiman Ballistic (tan)",
 		"ShortName": "Caiman",
 		"Description": "Баллистический шлем Caiman - это легкий шлем специального назначения нового поколения. Серия модульных аксессуаров улучшает комплектацию, обеспечивая пользователям легкую, удобную и максимально эффективную защиту головы."
@@ -159,37 +159,37 @@
 		"ShortName": "TC-2002",
 		"Description": "Усовершенствованный боевой шлем MSA (ACH) обеспечивает улучшенную защиту от баллистических, осколочных и ударных воздействий, а также комфорт при длительном использовании. Низкопрофильная конструкция шлема снижает риск перекрываний при захвате цели и обеспечивает совместимость с головными приборами и гарнитурами."
     },
-	"AddGearTan_tc800": {
+	"AddGearTan_MICH_2002": {
         "Name": "Шлем MSA Gallet TC 800 High Cut (tan)",
 		"ShortName": "TC 800",
 		"Description": "Баллистический шлем MSA TC 800, предназначенный для применения тактическими командами полицейского спецназа, в боевых и разведывательных операциях. Может быть модифицирован различными компонентами."
     },
-	"AddGearTan_achhc": {
+	"AddGearTan_ACHHC": {
         "Name": "Шлем Highcom Striker ACHHC IIIA tan",
 		"ShortName": "ACHHC",
 		"Description": "Боевой шлем компании Highcom без дополнительных креплений. «High Cut» версия, в цвете tan."
     },
-	"AddGearTan_doorkicker": {
+	"AddGearTan_Door_Kicker": {
         "Name": "Панама \"Door Kicker\" (песочный)",
 		"ShortName": "\"Door Kicker\"",
 		"Description": "Старая сильно поношенная бесЦенная панама, есть поверие что открывает перед владельцем любые двери в этом мире. Нет ума, штурмуй дома!"
     },
-	"AddGearTan_head_bandana": {
+	"AddGearTan_Head_Bandana": {
         "Name": "Бандана (песочная)",
 		"ShortName": "Бандана",
 		"Description": "Головной убор, активно используемый спецназом по всему миру."
     },
-	"AddGearTan_bear_cap": {
+	"AddGearTan_Cap_Regular_Bear": {
         "Name": "Кепка BEAR (tan)",
 		"ShortName": "BEAR",
 		"Description": "Кепка контрактора ЧВК BEAR"
     },
-	"AddGearTan_cap": {
+	"AddGearTan_Cap_Regular": {
         "Name": "Кепка (tan)",
 		"ShortName": "Кепка",
 		"Description": "Обычная кепка"
     },
-	"AddGearTan_beret": {
+	"AddGearTan_Beret": {
         "Name": "Песочный берет",
 		"ShortName": "Берет",
 		"Description": "Обыкновенный песочный берет."
@@ -199,7 +199,7 @@
 		"ShortName": "UXPRO",
 		"Description": "Качественная шапка фирмы UX PRO не даст замерзнуть."
     },
-	"AddGearTan_beanie": {
+	"AddGearTan_Beanie": {
         "Name": "Вязаная шапка (песочная)",
 		"ShortName": "Шапка",
 		"Description": "Вязаная шапка, по традиции называется лыжной, но носят её все."

@@ -1,37 +1,37 @@
 {
 	"AddGearTan_GEN4_Full": {
         "Name": "IOTV Gen4 armor (Tan, full protection)",
-		"ShortName": "Gen4 Full Tan",
+		"ShortName": "Gen4 Full",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Full protection kit."
     },
 	"AddGearTan_GEN4_Assault": {
         "Name": "IOTV Gen4 armor (Tan, assault kit)",
-		"ShortName": "Gen4 Assault Tan",
+		"ShortName": "Gen4 Assault",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased ergonomics assault kit."
     },
 	"AddGearTan_GEN4_Mobility": {
         "Name": "IOTV Gen4 armor (Tan, high mobility kit)",
-		"ShortName": "Gen4 HMK Tan",
+		"ShortName": "Gen4 HMK",
 		"Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased mobility and comfort kit."
     },
 	"AddGearTan_6B13": {
         "Name": "6B13 assault armor (Tan)",
-		"ShortName": "6B13 Tan",
+		"ShortName": "6B13",
 		"Description": "The main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions. Tan version."
     },
 	"AddGearTan_Hexgrid": {
         "Name": "5.11 Tactical Hexgrid plate carrier (Tan)",
-		"ShortName": "Hexgrid Tan",
+		"ShortName": "Hexgrid",
 		"Description": "The Hexgrid plate carrier with smooth ergonomic access that allows comfortable movement, intended for use with chest rigs. Manufactured by 5.11 Tactical."
     },
 	"AddGearTan_UntarVest": {
         "Name": "Light Military Flak Jacket (Tan)",
-		"ShortName": "Flak Tan",
+		"ShortName": "Flak",
 		"Description": "A class III body armor used by PMCs and security forces all around the world."
     },
 	"AddGearTan_Trooper": {
         "Name": "HighCom Trooper TFO body armor (Tan)",
-		"ShortName": "Trooper Tan",
+		"ShortName": "Trooper",
 		"Description": "A plate armor vest by HighCom, popular among USEC PMCs. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Tan version."
     },
 	"AddGearTan_Trooper_Clean": {
@@ -41,47 +41,47 @@
     },
 	"AddGearTan_PACA": {
         "Name": "PACA Soft Armor (Tan)",
-		"ShortName": "PACA Tan",
+		"ShortName": "PACA",
 		"Description": "A light but durable and reliable body armor protecting only the vital areas, fitted with class 2 (Russian GOST) armor plates."
     },
 	"AddGearTan_6B2": {
 		"Name": "6B2 body armor (Tan)",
-		"ShortName": "6B2 Tan",
+		"ShortName": "6B2",
 		"Description": "An old army body armor from Afghanistan war times, mainly designed to protect against pistol bullets and explosion fragments. It fulfilled its mission, but was soon replaced by bulletproof vests with differentiated protection."
     },
 	"AddGearTan_F4Terminator": {
         "Name": "Eberlestock F4 Terminator load bearing backpack (Tan)",
-		"ShortName": "F4 Terminator Tan",
+		"ShortName": "F4 Terminator",
 		"Description": "An extremely versatile full-format load bearing backpack for military use. Manufactured by Eberlestock."
     },
 	"AddGearTan_Blackjack50": {
        "Name": "Mystery Ranch Blackjack 50 backpack (Tan)",
-		"ShortName": "Blackjack 50 Tan",
+		"ShortName": "Blackjack 50",
 		"Description": "A backpack made for long and successful raids, manufactured by Mystery Ranch."
     },
 	"AddGearTan_Beta2": {
         "Name": "ANA Tactical Beta 2 Battle backpack (Tan)",
-		"ShortName": "Beta 2 Tan",
+		"ShortName": "Beta 2",
 		"Description": "A lightweight and capacious backpack from ANA Tactical. Specially designed for use in dynamic conditions and on rough terrain."
     },
 	"AddGearTan_Medpack": {
         "Name": "LBT-2670 Slim Field Med Pack (Tan)",
-		"ShortName": "SFMP Tan",
+		"ShortName": "SFMP",
 		"Description": "A low-profile medical backpack, designed to carry large amounts of specialized medical equipment and supplies. Manufactured by London Bridge Trading."
     },
 	"AddGearTan_MBSS": {
         "Name": "Flyye MBSS Backpack (Tan)",
-		"ShortName": "MBSS Tan",
+		"ShortName": "MBSS",
 		"Description": "An extra durable backpack made from 1000D Cordura with a separate pocket for a water bladder and a MOLLE attachment system on the sides."
     },
 	"AddGearTan_Daypack": {
        "Name": "LBT-8005A Day Pack backpack (Tan)",
-		"ShortName": "Day Pack Tan",
+		"ShortName": "Day Pack",
 		"Description": "A simple and reliable 14-liter backpack in Tan color. Manufactured by London Bridge Trading."
     },
 	"AddGearTan_Berkut": {
         "Name": "WARTECH Berkut BB-102 backpack (Tan)",
-		"ShortName": "Berkut Tan",
+		"ShortName": "Berkut",
 		"Description": "A tactical backpack with front loading capabilities. Suitable for use by military and security forces, or for military tactical games. Manufactured in WARTECH."
     },
 	"AddGearTan_ops_core_mandible": {
@@ -94,12 +94,12 @@
 		"ShortName": "Heavy Trooper",
 		"Description": "Tac-Kek Heavy Trooper, an additional helmet ballistic mask module based on the Ops Core type, based on the famous movie universe. This is the way."
     },
-	"AddGearTan_caiman_applique": {
+	"AddGearTan_Galvion_Caiman_applique": {
         "Name": "Caiman Hybrid Ballistic Applique (tan)",
 		"ShortName": "Applique",
 		"Description": "Up-armor helmet shell attachment to elevate or enhance ballistic and fragmentation protection of the Caiman Hybrid Helmet."
     },
-	"AddGearTan_caiman_visor": {
+	"AddGearTan_Galvion_Caiman_visor": {
         "Name": "Caiman Fixed Arm Visor (tan)",
 		"ShortName": "FAV",
 		"Description": "Locked-in ballistic visor shield for installation on helmet's shroud."
@@ -114,7 +114,7 @@
 		"ShortName": "SArmor",
 		"Description": "Additional armor for Ops-Core FAST helmet, which protects the ears from shrapnel and small caliber ricochets"
     },
-	"AddGearTan_caiman_mandible": {
+	"AddGearTan_Galvion_Caiman_mandible": {
         "Name": "Caiman Ballistic Guard Mandible (tan)",
 		"ShortName": "Mandible",
 		"Description": "Special additional ballistic protection for the Galvion Caiman helmet, mounted on the Side rails."
@@ -126,88 +126,88 @@
     },
 	"AddGearTan_CFBalaclava": {
         "Name": "Cold Fear Infrared balaclava (Tan)",
-		"ShortName": "CF Tan",
+		"ShortName": "CF",
 		"Description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
     },
 	"AddGearTan_HalfMask": {
         "Name": "Lower half-mask (Tan)",
-		"ShortName": "Half-mask Tan",
+		"ShortName": "Half-mask",
 		"Description": "A piece of cloth, typically a bandana, covering the face from nose and below, is the most typical attribute of a street gang member."
     },
 	"AddGearTan_MomexBalaclava": {
         "Name": "Momex balaclava (Tan)",
-		"ShortName": "Momex Tan",
+		"ShortName": "Momex",
 		"Description": "A tactical balaclava with a single hole for eyes."
     },
 	"AddGearTan_ShemaghVer1": {
         "Name": "Shemagh (Tan, ver. 1)",
-		"ShortName": "Shemagh 1 Tan",
+		"ShortName": "Shemagh",
 		"Description": "A favorite headpiece of PMCs around the globe."
     },
-	"AddGearTan_6b47": {
-        "Name": "6B47 Ratnik-BSh Helmet (tan)",
+	"AddGearTan_6B47": {
+        "Name": "6B47 Ratnik-BSh helmet (Tan)",
 		"ShortName": "6B47",
-		"Description": "Main Ballistic helmet of a Russian army."
+		"Description": "6B47 is an aramid helmet of Russian origin. As part of the Ratnik program, it is the new standard-issue helmet for most of the Russian Armed Forces. The 6B47 is similar to previous generation helmets such as the 6B7-1M and 6B27. It has equal protection but weighs slightly less, floats in water, and has mounting equipment for lights and night vision devices. The helmet can be fitted with a variety of covers for different environments."
     },
-	"AddGearTan_caiman": {
-        "Name": "Galvion Caiman Ballistic Helmet (tan)",
+	"AddGearTan_Galvion_Caiman": {
+        "Name": "Galvion Caiman Hybrid helmet (Tan)",
 		"ShortName": "Caiman",
-		"Description": "The Caiman ballistic helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection."
+		"Description": "The Caiman Hybrid helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion."
     },
-	"AddGearTan_mich2001": {
-        "Name": "MSA ACH TC-2001 MICH Series Helmet (tan)",
+	"AddGearTan_MICH_2001": {
+        "Name": "MSA ACH TC-2001 MICH Series Helmet (Tan)",
 		"ShortName": "TC-2001",
-		"Description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation,and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
+		"Description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
     },
-	"AddGearTan_mich2002": {
-        "Name": "MSA ACH TC-2002 MICH Series Helmet (tan)",
+	"AddGearTan_MICH_2002": {
+        "Name": "MSA ACH TC-2002 MICH Series Helmet (Tan)",
 		"ShortName": "TC-2002",
-		"Description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation,and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
+		"Description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
     },
-	"AddGearTan_tc800": {
-        "Name": "MSA Gallet TC 800 High Cut combat helmet (tan)",
+	"AddGearTan_TC_800": {
+        "Name": "MSA Gallet TC 800 High Cut combat helmet (Tan)",
 		"ShortName": "TC 800",
-		"Description": "Ballistic helmet MSA TC 800, designed for use by tactical teams of police special forces, in combat and reconnaissance operations. It can be modified by various components."
+		"Description": "The MSA TC 800 ballistic helmet, designed for use by tactical teams of police special forces, in combat and reconnaissance operations. It can be modified by various components."
     },
-	"AddGearTan_achhc": {
-        "Name": "Highcom Striker ACHHC IIIA black helmet (tan)",
+	"AddGearTan_ACHHC": {
+        "Name": "HighCom Striker ACHHC IIIA black helmet (Tan)",
 		"ShortName": "ACHHC",
-		"Description": "Highcom combat helmet without additional mounts. \"High Cut\" version, tan."
+		"Description": "A combat helmet manufactured by HighCom, the High Cut version. Does not feature any additional mounts. Tan version."
     },
-	"AddGearTan_doorkicker": {
-        "Name": "\"Door Kicker\" Boonie hat (tan)",
+	"AddGearTan_Door_Kicker": {
+        "Name": "Door Kicker Boonie hat (Tan)",
 		"ShortName": "\"Door Kicker\"",
-		"Description": "Old well-worn, priceless Boonie hat, it is believed that it opens any doors in this world for its owner."
+		"Description": "A well-worn \"PriceLess\" boonie hat. It is believed that those who wear it can open any door in this world."
     },
-	"AddGearTan_head_bandana": {
-        "Name": "Bandana (tan)",
+	"AddGearTan_Head_Bandana": {
+        "Name": "Bandana (Tan)",
 		"ShortName": "Bandana",
-		"Description": "Headgear, actively used by special forces around the world."
+		"Description": "A tan colored headgear, actively used by special forces around the world."
     },
-	"AddGearTan_bear_cap": {
-        "Name": "BEAR baseball cap (tan)",
+	"AddGearTan_Cap_Bear": {
+        "Name": "BEAR baseball cap (Tan)",
 		"ShortName": "BEAR",
-		"Description": "BEAR PMC baseball cap"
+		"Description": "A tactical BEAR PMC baseball cap. Tan version."
     },
-	"AddGearTan_cap": {
-        "Name": "Baseball cap (tan)",
+	"AddGearTan_Cap_Regular": {
+        "Name": "Baseball cap (Tan)",
 		"ShortName": "Cap",
-		"Description": "Regural baseball cap"
+		"Description": "A tactical baseball cap. Tan version."
     },
-	"AddGearTan_beret": {
-        "Name": "Tan beret",
+	"AddGearTan_Beret": {
+        "Name": "Beret (Tan)",
 		"ShortName": "Beret",
 		"Description": "Just a tan beret."
     },
-	"AddGearTan_uxpro": {
-        "Name": "UX PRO Beanie (tan)",
+	"AddGearTan_UX_Pro": {
+        "Name": "UX PRO Beanie (Tan)",
 		"ShortName": "UXPRO",
-		"Description": "Warm and comfortable UX PRO beanie. For you, only for you. And that guy, too"
+		"Description": "The warm and comfortable UX PRO beanie. For you, only for you. And that guy, too."
     },
-	"AddGearTan_beanie": {
-        "Name": "Beanie (tan)",
+	"AddGearTan_Beanie": {
+        "Name": "Beanie (Tan)",
 		"ShortName": "Beanie",
-		"Description": "Warm knitted beanie, traditionally made for skiers but worn by everyone."
+		"Description": "A warm knitted beanie, traditionally made for skiers but worn by everyone."
     },
 	"AddGearTan_tacteccarrier": {
         "Name": "5.11 Tactec plate carrier (tan)",
@@ -278,5 +278,20 @@
 		"ShortName": "WTRig",
 		"Description": "The heavy suspension system TV-109 is designed for attaching to the belt TV-106, or similar, in order to relieve some weight on the shoulders. The shoulders are reinforced with foam and have MOLLE straps, for transferring the belt complete with this system into a full-featured ALICE system.",
 		"RigLayoutName": "Wartech Rig"
-    }
+    },
+	"AddGearTan_Cap_Backwards": {
+        "Name": "Baseball cap (Tan, backwards)",
+		"ShortName": "Cap",
+		"Description": "A tactical baseball cap. Tan version."
+	},
+	"AddGearTan_Cap_Tagilla": {
+        "Name": "BOSS cap (Tan)",
+		"ShortName": "Cap",
+		"Description": "A fancy tan BOSS cap. Yo, fella, you da real BOSS now!"	
+	},
+	"AddGearTan_M92": {
+        "Name": "Gefechtshelm M92 (Tan)",
+		"ShortName": "M92",
+		"Description": "The Gefechtshelm M92 (or Gefechtshelm Schuberth B826) is the standard issue combat helmet of the Bundeswehr, first fielded in 1992 as a replacement of earlier M1956 steel helmets that were previously used during the Cold War. It is made from Aramid composite materials and is used by all branches of the Bundeswehr."
+	}
 }
